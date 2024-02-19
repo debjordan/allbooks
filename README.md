@@ -4,7 +4,7 @@ testing alteration. origin for local
 testing alteration 2. local for origin
 
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
-É um MVP que tá só começando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
+É um MVP que tá só comecando e ainda tem muitas funcionalidades novas para serem desenvolvidas.
 
 # JSONServer + JWT Auth
 
